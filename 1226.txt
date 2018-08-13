@@ -1,0 +1,6 @@
+WAMP
+w; 윈도우
+A; 아팟치(apache)
+M; mysql
+P; PHP
+
